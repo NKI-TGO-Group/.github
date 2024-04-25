@@ -1,2 +1,0 @@
-# .github
-TGO group repository
