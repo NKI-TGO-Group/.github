@@ -1,5 +1,11 @@
 ## NKI-TGO Repository 👋
 
+This is the official TGO GitHub organization for Research and Data management.
+
+TGO is the Translational Gastrointestinal Oncology group focus on translational research in the field of gastrointestinal cancer; especially biomarker development for early detection of colorectal cancer, as well as definition of molecular intermediate endpoints for screening.
+
+In this repository you will be able to find workflows/scripts/pipelines involving TGO research or data management projects.
+
 <!--
 
 **Here are some ideas to get you started:**
